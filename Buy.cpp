@@ -31,7 +31,7 @@ float Buy::calcTotalWeight() const
 }
 
 void Buy::showBuy() const
-{
+{ 
     Product::showProduct();
     cout << "Amount: "<< amount << endl;
     cout << "-------------------------------\n";
