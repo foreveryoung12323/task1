@@ -1,0 +1,7 @@
+Product:Apple
+Price:20.5
+Weight:2.5
+Amount: 5
+-------------------------------
+Total price: 102.5
+Total weight: 12.5
